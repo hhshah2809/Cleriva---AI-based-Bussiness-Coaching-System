@@ -19,7 +19,7 @@ The architecture is split into independent services for scalability and maintain
 ---
 
 # Architecture
-
+![Cleriva Architecture](docs/architecture.svg)
 ```text
 User
   ↓
