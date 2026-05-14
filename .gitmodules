@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/hhshah2809/cleriva-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/hhshah2809/cleriva_backend.git
+[submodule "rag-service"]
+	path = rag-service
+	url = https://github.com/hhshah2809/cleriva_rag_service.git
